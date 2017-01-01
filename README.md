@@ -8,3 +8,5 @@ This is a list of active Cheat Sheets
 Red and White PSTN wire connection schematics for modular connector
 * **ModularConnMF.svgz**<br />
 Modular connector pin spotter
+* **ITPlanner.svgz**<br />
+A tentative Single-Page planner for the IT Professional
